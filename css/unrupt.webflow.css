@@ -1586,6 +1586,9 @@ html.w-mod-js *[data-ix="bounce"] {
     bottom: 0px;
     padding-top: 10vh;
   }
+  .body {
+    padding: 4px 16px 16px;
+  }
   .slider {
     height: 100%;
   }
@@ -1712,6 +1715,10 @@ html.w-mod-js *[data-ix="bounce"] {
   }
   .top_image {
     height: 17vh;
+  }
+  .heading {
+    font-size: 24px;
+    line-height: 100%;
   }
 }
 

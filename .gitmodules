@@ -1,0 +1,4 @@
+[submodule "try"]
+	path = try
+	url = https://github.com/b4oshany/unrupt-demo.git
+	branch = 1.1.2-fixes
